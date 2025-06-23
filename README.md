@@ -95,13 +95,5 @@ Give credit if you publish something based on this system. Contributions welcome
 
 ---
 
-## 📸 Example
-
-> ![Demo GIF or Screenshot Placeholder]
-
-If you'd like me to create a GIF demo, let me know.
-
----
-
 Enjoy building with it!  
 Made with ❤️ in Unity.
